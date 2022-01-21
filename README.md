@@ -1,11 +1,17 @@
-# Watch-List
+# Code4charity members suggestions = invitations:  
+@____ @____ @____ @____ @____ @____
+
+# Membership requests:
+@____ @____ @____ @____ @____ @____
+
+# Repo Watch-List
 https://github.com/public-apis/public-apis
 
 https://github.com/MarcGuiselin/youtube-refined
 
 https://github.com/nextapps-de/bulksearch
 
-## Team-members collecting Repos (Latest first) 
+## Code4Charity members collecting Repos (Latest first) 
 
 https://github.com/yourduskquibbles/webannoyances      
 https://github.com/DandelionSprout/adfilt         (@chirag127   https://github.com/code4charity/adfilt/)
