@@ -1,8 +1,10 @@
-# Code4charity members suggestions = invitations:  
-@____ @____ @____ @____ @____ @____
+### Awesome Githubers:
+#### Browser Extensions:
+#### Translations: 
+#### Code4charity member invitations:  
+@____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____
 
-# Membership requests:
-@____ @____ @____ @____ @____ @____
+#### Requests:  @____ @____ @____ @____ @____ @____
 
 # Repo Watch-List
 https://github.com/public-apis/public-apis
