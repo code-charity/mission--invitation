@@ -44,8 +44,8 @@ https://github.com/MarcGuiselin/youtube-refined <br> https://github.com/nextapps
 
 ----
 
-#### Code4Charity members collecting Repos (Latest first. Internal purpose) 
-
+#### _Code4Charity members collected Repos (Latest first. Internal purpose)_ 
+<i>
 https://github.com/yourduskquibbles/webannoyances      
 https://github.com/DandelionSprout/adfilt       
 
@@ -64,4 +64,4 @@ https://github.com/iamadamdev/bypass-paywalls-chrome
 https://github.com/erosman/extension-translations
 
 https://github.com/nashvail/Chronus
-
+  </i>
