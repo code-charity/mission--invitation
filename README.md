@@ -18,7 +18,7 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 (A single person's energy simply is limited.  A project can easily be too big or too lengthy, such as many years or decades)
 
 
-   - to date only 1.75% of popular repos are forks ( = <code> _fork:only stars:>130  /  fork:true stars:>130_ </code>  -  to be repeated ) <br> <img width="268" alt="only 2% forks" src="https://user-images.githubusercontent.com/25022245/151553999-7a774d7e-05f0-48bd-abe7-f486a30a2eae.png"><img width="199" alt="github forks" src="https://user-images.githubusercontent.com/25022245/151553997-b940792a-7be0-46f7-a84a-d342af75bcde.png"><br>
+   - to date only ~1.75% of popular repos are forks   (_=<code>fork:only stars:>130  /  fork:true stars:>130 </code>  -  to be repeated_ ) <br> <img width="268" alt="only 2% forks" src="https://user-images.githubusercontent.com/25022245/151553999-7a774d7e-05f0-48bd-abe7-f486a30a2eae.png"><img width="199" alt="github forks" src="https://user-images.githubusercontent.com/25022245/151553997-b940792a-7be0-46f7-a84a-d342af75bcde.png"><br>
 
 
 ----
