@@ -1,11 +1,9 @@
+
+
 ### Awesome Githubers:
-................... 
+
  - Browser Extensions:
  - Translations: 
-#### Code4charity member invitations:  
-@____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____
-
-#### Requests:  @____ @____ @____ @____ @____ @____
 
 # Repo Watch-List
 https://github.com/public-apis/public-apis
@@ -34,7 +32,4 @@ https://github.com/iamadamdev/bypass-paywalls-chrome
 https://github.com/erosman/extension-translations
 
 https://github.com/nashvail/Chronus
-
-
-
 
