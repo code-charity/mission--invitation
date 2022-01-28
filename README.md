@@ -1,6 +1,7 @@
 ### Awesome Githubers:
-#### Browser Extensions:
-#### Translations: 
+................... 
+ - Browser Extensions:
+ - Translations: 
 #### Code4charity member invitations:  
 @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____ @____
 
