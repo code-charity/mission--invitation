@@ -5,7 +5,7 @@
 
 - So in turn translations and documentation can also be very efficient/motivating.
 
-###### _Problem:_ 
+###### _Unforunately:_ 
  - Many of the biggest AND most meanigful ideas still were never realized due to lack of money / confidence.
 And many altruistic geniuses are introverts or rather just used to work alone, since it is more likely to reach unique, relevant spheres alone, 
 while any teams also requires **some** organisational overhead.
@@ -18,8 +18,8 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 (A single person's energy simply is limited.  A project can easily be too big or too lengthy, such as many years or decades)
 
 
-   - to date only ~1.75% of popular repos are forks   (_=<code>fork:only stars:>130  /  fork:true stars:>130 </code>  -  to be repeated_ ) <br> <img width="268" alt="only 2% forks" src="https://user-images.githubusercontent.com/25022245/151553999-7a774d7e-05f0-48bd-abe7-f486a30a2eae.png"><img width="199" alt="github forks" src="https://user-images.githubusercontent.com/25022245/151553997-b940792a-7be0-46f7-a84a-d342af75bcde.png"><br>
-
+   - to date only <1.75% of popular repos are forks & <1.31% of those updated. <br> (_=<code>fork:only stars:>130 pushed>2021-01</code> ... to be repeated_ ) <br> <img width="268" align="right" alt="only 2% forks" src="https://user-images.githubusercontent.com/25022245/151553999-7a774d7e-05f0-48bd-abe7-f486a30a2eae.png">
+<img width="181" alt="forks" src="https://user-images.githubusercontent.com/25022245/151556704-0d005580-b2a2-4407-b0a1-09d93c676317.png"><img width="182" alt="forks" src="https://user-images.githubusercontent.com/25022245/151556705-0cba1574-52ea-4dfe-809b-7301af4abec7.png"><img width="168" alt="github forks" src="https://user-images.githubusercontent.com/25022245/151556702-6bcf1b31-143c-4f2f-ba60-69c7e5ffb4eb.png">
 
 ----
 
