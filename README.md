@@ -1,4 +1,4 @@
-##### We are 'Code for Charity'. <br>  We fulfill wishes and serve 400 000+ active users, <br> starting over 10 years ago (and recommended by Firefox since 2022)
+##### We are 'Code for Charity'. <br>  We fulfill wishes and serve 400 000+ active users, <br> starting over 10 years ago (+ recommended by Firefox since 2022)
 
 ###### _Opportunity:_  
 a Developer's work can sometimes be leveraged easily, so that it saves 1000s of times more human effort collectively than it costs...! - Or electricity too - And still in the future, if the world progresses and the amount of developers grows, there will be little features never made or published before, that 1000s of smart people were waiting for already - or that millions would enjoy *if* only they ever see it structures and effiently. - So in turn translations and documentation can also be very efficient/motivating.
