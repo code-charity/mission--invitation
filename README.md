@@ -26,7 +26,7 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 #### Our on-going Work... 
   - ...to make people browse smarter:  [code4charity/History-Manager](https://github.com/code4charity/History-Manager)
 
-##### Initiative (Drafts 😊😊 = easy to improve!) 
+##### Initiative (Drafts = easy to improve! 😊😊) 
  
  - ...to collect any wishes/ideas:  [code4charity/Wish-Factory](https://github.com/code4charity/Wish-Factory)
 
