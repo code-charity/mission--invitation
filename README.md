@@ -30,9 +30,9 @@ this might sometimes be reasonable personally, yet destructive for their cause a
  
  - ...to collect any wishes/ideas:  [code4charity/Wish-Factory](https://github.com/code4charity/Wish-Factory)
 
- - ...to increase development effiency:  [Global Robot Contributor](https://github.com/code4charity/Open-Source-Bot--Github-Pull-Request-Bot--Auto-Git-Contributor); [Manifest v3 Converter (browser extensions)](https://github.com/code4charity/Manifest-v3); [Regex Collector](https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns) _(& [Universal Userteaks](https://github.com/code4charity/universal-usertweaks))_
+ - ...to increase development effiency:  [Global Robot Contributor](https://github.com/code4charity/Open-Source-Bot--Github-Pull-Request-Bot--Auto-Git-Contributor); [Manifest v3 Converter (browser extensions)](https://github.com/code4charity/Manifest-v3); [Regex Collector](https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns); ([Universal Userteaks](https://github.com/code4charity/universal-usertweaks))
 
- - ...to connect/popularize the volunteer developers on github:  [code4charity/Awesome-People](https://github.com/code4charity/Awesome-People)
+ - ...to connect/popularize volunteer developers on github interdisciplinarily:  [code4charity/Awesome-People](https://github.com/code4charity/Awesome-People)
 
 ##### Big Works (need contributors & testers):
 
