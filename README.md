@@ -1,16 +1,18 @@
 ##### We are 'Code for Charity'. <br>  We fulfill wishes and serve 400 000+ active users, <br> starting over 10 years ago (+ recommended by Firefox since 2022)
 
 ###### _Opportunity:_  
-a Developer's work can sometimes be leveraged easily, so that it saves 1000s of times more human effort collectively than it costs...! - Or electricity too - And still in the future, if the world progresses and the amount of developers grows, there will be little features never made or published before, that 1000s of smart people were waiting for already - or that millions would enjoy *if* only they ever see it structures and effiently. - So in turn translations and documentation can also be very efficient/motivating.
+  - a Developer's work can sometimes be leveraged easily, so that it saves 1000s of times more human effort collectively than it costs  the one or few developers...! - Or electricity too - And still in the future, if the world progresses and the amount of developers grows, there will be little features never made or published before, that 10000 smart people were waiting for already - or that millions would enjoy *if* only they ever see it stuctured(effiently). 
+
+- So in turn translations and documentation can also be very efficient/motivating.
 
 ###### _Problem:_ 
-Many of the most biggest AND most meanigful ideas still were never realized due to lack of money / confidence.
+ - Many of the most biggest AND most meanigful ideas still were never realized due to lack of money / confidence.
 And many altruistic geniuses are introverts or rather just used to work alone, since it is more likely to reach unique, relevant spheres alone, 
 while any teams also requires **some** organisational overhead.
 However, once you choose a unique, relevant cause, there usually already is good use for other talents, that no single person has at once. 
 (And other skills, such as native language.)   -  
 
-Most importantly, useless redundances can be avoided early: 
+- Most importantly, useless redundances can be avoided early: 
 If 10 People each work on the same cause/purpose/project, but never come together and even abandon sooner or later. 
 this might sometimes be reasonable personally, yet destructive for their cause as a whole. 
 (A single person's energy simply is limited.  A project can easily be too big or too lengthy, such as many years or decades)
