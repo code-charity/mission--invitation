@@ -17,8 +17,8 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 
 ----
 
-##### On-going Work 
-  - to make anybody browse smarter:  [code4charity/History-Manager](https://github.com/code4charity/History-Manager)
+#### On-going Work 
+  - to make people browse smarter:  [code4charity/History-Manager](https://github.com/code4charity/History-Manager)
 
 ###### Initiative (Drafts, yet easy to improve!) 
  
@@ -28,40 +28,32 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 
  - to connect/popularize the volunteer developers on github:  [code4charity/Awesome-People](https://github.com/code4charity/Awesome-People)
 
-###### Big Works (need contributors):
+###### Big Works (need contributors & testers):
 
  - ['Improve YouTube!'](https://github.com/code4charity/YouTube-Extension)
- - [Victor-Savinov's Browser-Extension Repos](https://github.com/victor-savinov?tab=repositories)  (Some of which may move to Code4Charity after initial incubation)
+ - [several promising Browser-Extensions](https://github.com/victor-savinov?tab=repositories&q=&type=&language=&sort=)  
 
 
 ----
 
-##### Repo Watch-List
+#### Repo Watch-List
 https://github.com/public-apis/public-apis <br> https://github.com/HollyAdele/awesome-programming-for-kids
 
-#### Inactive - Their work should continue:   
+#### Inactive - Their work should continue 🥺:   
 https://github.com/MarcGuiselin/youtube-refined <br> https://github.com/nextapps-de/bulksearch
 
 ----
 
-#### _Code4Charity members collected Repos (Latest first. Internal purpose)_ 
-<i>
-https://github.com/yourduskquibbles/webannoyances      
-https://github.com/DandelionSprout/adfilt       
-
-https://github.com/Yuki2718/adblock
-
-https://github.com/My-External-Stuff/ublockorigin-rules
-
-https://github.com/easylist/easylist/
-
-https://github.com/ryanbr/fanboy-adblock
-
-https://github.com/avinashkranjan/Amazing-Python-Scripts
-
-https://github.com/iamadamdev/bypass-paywalls-chrome
-
-https://github.com/erosman/extension-translations
-
-https://github.com/nashvail/Chronus
-  </i>
+###### _Code4Charity members collecting Repos (Internal purpose)_ 
+<i><b>
+https://github.com/avinashkranjan/Amazing-Python-Scripts <br> 
+https://github.com/erosman/extension-translations <br>
+https://github.com/iamadamdev/bypass-paywalls-chrome <br>
+https://github.com/nashvail/Chronus </b><br>
+Content filters: <br>
+https://github.com/yourduskquibbles/webannoyances <br>
+https://github.com/DandelionSprout/adfilt  <br>
+https://github.com/Yuki2718/adblock <br>
+https://github.com/My-External-Stuff/ublockorigin-rules <br>
+https://github.com/easylist/easylist/ <br>
+https://github.com/ryanbr/fanboy-adblock  </i>
