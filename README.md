@@ -22,8 +22,6 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 
 [join us!<b>👪</b>](https://github.com/code4charity/mission-invitation/discussions/2)
 
-----
-
 ##### Initiative (Drafts = easy to improve! 😊😊) 
  
  - ...to collect any wishes/ideas:  [code4charity/Wish-Factory](https://github.com/code4charity/Wish-Factory)
@@ -38,7 +36,7 @@ this might sometimes be reasonable personally, yet destructive for their cause a
  - ['Improve YouTube!'](https://github.com/code4charity/YouTube-Extension)
  - [several promising Browser-Extensions](https://github.com/victor-savinov?tab=repositories&q=&type=&language=&sort=)  
 
-
+----
 ----
 
 #### Repo Watch-List
@@ -47,7 +45,7 @@ https://github.com/public-apis/public-apis <br> https://github.com/HollyAdele/aw
 #### Inactive - Their work should continue 🥺:   
 https://github.com/MarcGuiselin/youtube-refined <br> https://github.com/nextapps-de/bulksearch
 
-----
+
 
 ###### _Code4Charity members collecting Repos (Internal purpose)_ 
 <i><b>
