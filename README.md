@@ -35,7 +35,6 @@ this might sometimes be reasonable personally, yet destructive for their cause a
 
 
 ----
-----
 
 ##### Repo Watch-List
 https://github.com/public-apis/public-apis <br> https://github.com/HollyAdele/awesome-programming-for-kids
@@ -43,10 +42,7 @@ https://github.com/public-apis/public-apis <br> https://github.com/HollyAdele/aw
 #### Inactive - Their work should continue:   
 https://github.com/MarcGuiselin/youtube-refined <br> https://github.com/nextapps-de/bulksearch
 
-#### Awesome Githubers:
-
- - Browser Extensions:
- - Translations: 
+----
 
 #### Code4Charity members collecting Repos (Latest first. Internal purpose) 
 
