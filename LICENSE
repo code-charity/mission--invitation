@@ -16,14 +16,14 @@ FREEDOMS:
 
 This licence refers to: https://github.com/___/___
 ---
-COMMENT/Postamble: Reason for the specific restriction:  Some publishers use code without permission commercially, with [too much] ads or spyware. 
+COMMENT/Postamble: Reason for the specific restriction:  Some publishers use code without permission commercially, with [many] ads or spyware. 
 Together they can have more users than the original, since software is often not chosen well. 
 Thus we rationally/responsibly have to care. Inspite of the tendency for smart behavior, to be superior on a long-term, as assumed by licences like GNU, 
 marketing / competition / economy are not fair in the present.  Billions of users don't review every software choice
- - While most project owners are unlikely to hinder any good cause by requiring to ask, which might help and connect. 
-(and each owner can decide to pass on their work on before retiring, 
+ - While most project owners are unlikely to hinder any good cause by requiring to ask, which might help and connect contributors
+(and each owner can pass on their work prior to retiring, 
 i.e. Option: Once the maintainers/founders/initiators/inventors of this Repo become inactive for X month, 
-the community might vote for successors with over 60% of votes. If no election is successful within Y month, then a Repositorium becomes licensed under GNU apgl-3.0-7abcdef )
+the community might vote for successors with a 60% majority. If no election is successful within Y month, then a Repositorium becomes licensed under GNU apgl-3.0-7abcdef )
 
 THANKS to @Maniues, who joined thinking about this: https://github.com/code-for-charity/YouTube-Extension/discussions/922
 
