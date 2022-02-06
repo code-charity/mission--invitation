@@ -1,20 +1,21 @@
 'Friendly/charitable License'(-DRAFT. Talk to us? ☺ if you are into international law):
 We seek to work together empowering every good-willed user, contributor & partner, as openly & fairly as reasonably possible 
-
 FREEDOMS: 
-1. PERSONAL use:  This was made for you ♡. (If you like it consider donating. Our work is efficient. If you ever change or repurpose anything, please take the time to share it ♡.)
-2. CONTRIBUTORs:   Unlike popular licences we would like to acknowledge that you become a shareholder of this project / 'cooperative',  proportionally to the time well spent.
+1. PERSONAL use:  This was made for you ♡. (If you like it consider passing on the favor. Or donating. Our work is efficient.) If you ever change or repurpose something, consider sharing that ♡. )
+1.1. Commercial BACKEND use: A fair price / support of this project is suggested for long-term use & mandatory in companies valued above $0.2 Million or 2 times the national GDP per capita, whichever number is bigger. 
+     Your edits/additions are not required to inherit a license because they might lead in a totally different direction. However you should intend public good.
+2. CONTRIBUTORs: Unlike popular licences we would like to acknowledge that you become a shareholder of this project / 'cooperative',  proportionally to the time well spent.
   Please vote about our future actions. Seeking decentralization of powers might protect charity & friendliness.   
    2.1. (option): For intellectual growth & compatiblity with the standard:  All accepted pull-requests are assumed, 
-   to also come under a viral copyleft license, GNU agpl-3.0-7abcdef only, for the world, unless stated otherwise,
+   to also come under a viral copyleft license, GNU agpl-3.0-7abcdef, for the world, unless stated otherwise,
        2.2. (option/small projects): , but free of copyrights to the original cause & maintainers. (these intellectual contributions are granted to the exact original cause & maintainers free-of-charge, non-exclusively, for publishing & modification. Contributors do have the right to be mentioned in credits)
-3. PUBLISHERs: Unmodified Distribution welcome! permitted. (just don't wrap it in ads or drive-by installs)
+3. DISTRIBUTION: Unmodified publishing welcome! permitted. (just don't wrap it in ads or drive-by installs)
   3.1 Modified Versions or piece/s of our code:  
-   - Registered Charity organisations: you can modify / repurpose. (Just don't remove our links or state the source well.)
-   - ONLY RESTRICTION: commercially publishing/repurosing any of the code, that is not the full, such as 'version 1.0.0'. 
-     Written permission/contract is required. No such    permission was granted to anybody as of 2022. Exception: OS's like Debian, Fedora.   
+   - Registered Charity organisations: you can modify / repurpose (Just don't remove our links or state the source well.)
+   - RESTRICTION: commercially publishing/repurosing any of the code, that is not the full & recent version. 
+     Written permission/contract is required. No such permission was granted to anybody as of 2022. Exception: OS's like Debian, Fedora.   
 
-This licence refers to: https://github.com/___/___
+(This licence refers to: https://github.com/___/___)
 ---
 COMMENT/Postamble: Reason for the specific restriction:  Some publishers use code without permission commercially, with [many] ads or spyware. 
 Together they can have more users than the original, since software is often not chosen well. 
