@@ -3,7 +3,7 @@
 ###### _Opportunity:_  
   - a Developer's work can sometimes be leveraged easily, so that it saves 1000s of times more human effort collectively than it costs  the one or few developers...! - Or electricity too - And still in the future, if society progresses and the amount of developers grows, there will still be little features never made or published before, that 10000 smart people were waiting for already - or that millions would enjoy *if* only they ever see it structured efficiently. 
 
-- So in turn translating, documenting, structuring, planning can also be very efficient/motivating.
+- So translating, documenting, structuring, planning can also be very efficient/motivating.
 
 ###### _Unforunately:_ 
  - Many of the biggest AND most meanigful ideas still were never realized due to lack of money / confidence.
