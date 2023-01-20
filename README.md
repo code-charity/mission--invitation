@@ -44,9 +44,7 @@ https://github.com/public-apis/public-apis <br> https://github.com/HollyAdele/aw
 #### Inactive - Their work should continue 🥺:   
 https://github.com/MarcGuiselin/youtube-refined <br> https://github.com/nextapps-de/bulksearch
 
-
-
-###### _Code4Charity members collecting Repos (Internal purpose)_ 
+###### Code4Charity member's suggest:
 <i><b>
 https://github.com/avinashkranjan/Amazing-Python-Scripts <br> 
 https://github.com/erosman/extension-translations <br>
