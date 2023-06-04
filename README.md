@@ -47,11 +47,12 @@ https://github.com/MarcGuiselin/youtube-refined <br> https://github.com/nextapps
 ---
 
 ##### Code4Charity member's suggested:
-<i><b>
+<i>
 https://github.com/avinashkranjan/Amazing-Python-Scripts <br> 
 https://github.com/erosman/extension-translations <br>
 https://github.com/iamadamdev/bypass-paywalls-chrome <br>
-https://github.com/nashvail/Chronus </b><br>
+https://github.com/nashvail/Chronus <br>
+ 
 Content filters: <br>
 https://github.com/yourduskquibbles/webannoyances <br>
 https://github.com/DandelionSprout/adfilt  <br>
