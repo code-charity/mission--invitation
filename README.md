@@ -9,7 +9,8 @@ We fulfill wishes and serve many users, starting over 10 years ago & recommended
  Teams also require **some** organisational overhead. Once you choose a unique, relevant cause, it might should receive different specific talents, that no single person has at once.
 (- Several developers often could make one great project worth more than several separate / parallel ones. Useless redundances can be avoided early. 
 Often several people each work on the same cause/purpose/project needlessly. And never come together and even abandon their version sooner or later. (Which might sometimes be reasonable personally, yet contra-productive for their cause. 
-A single person's energy simply is limited and a project can easily be too big or too lengthy for 'too' many years. Projects should persist beyond single person's energy not to needlessly confuse every user at one point.
+A single person's energy simply is limited and a project can easily be too big or too lengthy for 'too' many years. Projects should persist beyond single person's energy not to needlessly confuse users at one point.
+
     - to date only < 1.75% of popular Github repos are forks & < 1.31% among those still updated. <br> (_=<code>fork:only stars:>130 pushed>2021-01</code> ... to be repeated_ ) <br> <img width="268" align="right" alt="only 2% forks" src="https://user-images.githubusercontent.com/25022245/151553999-7a774d7e-05f0-48bd-abe7-f486a30a2eae.png">
 <img width="181" alt="forks" src="https://user-images.githubusercontent.com/25022245/151556704-0d005580-b2a2-4407-b0a1-09d93c676317.png"><img width="182" alt="forks" src="https://user-images.githubusercontent.com/25022245/151556705-0cba1574-52ea-4dfe-809b-7301af4abec7.png"><img width="168" alt="github forks" src="https://user-images.githubusercontent.com/25022245/151556702-6bcf1b31-143c-4f2f-ba60-69c7e5ffb4eb.png">
 
